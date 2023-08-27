@@ -1,4 +1,4 @@
-Projeto da atividade pratica 2 da residencia 
+Projeto da atividade pratica 2 da residencia.
 
 
-Foi criada uma nova feature para o desenvolvimento de uma NavBar
+Foi criada uma nova feature para o desenvolvimento de uma NavBar.
