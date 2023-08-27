@@ -1,0 +1,4 @@
+Projeto da atividade pratica 2 da residencia 
+
+
+Foi criada uma nova feature para o desenvolvimento de uma NavBar
