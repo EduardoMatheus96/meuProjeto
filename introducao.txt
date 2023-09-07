@@ -4,6 +4,8 @@ Foi criada uma nova feature para uma NavBar !!!
 
 
 Gerando um conflito !!!
+
 Foi criada uma nova feature para o desenvolvimento de uma NavBar.
 
--- Modificação feita por Welvis no repositório.
+
+Criando a tag 2.0 !!!!
