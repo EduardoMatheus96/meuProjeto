@@ -9,3 +9,6 @@ Foi criada uma nova feature para o desenvolvimento de uma NavBar.
 
 
 Criando a tag 2.0 !!!!
+
+> Wilton passou por aqui para resolver o Exercício 6: Clonando e Forking
+> Obrigado!
